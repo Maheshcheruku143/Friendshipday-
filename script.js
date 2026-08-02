@@ -1,4 +1,11 @@
 // Friendship Day Message
+
+const music = document.getElementById("bgmusic");
+
+document.body.addEventListener("click", () => {
+    music.play();
+}, { once: true });
+
 const message = `🎉 Happy Friendship Day! 🎉
 
 To all my amazing friends ❤️
