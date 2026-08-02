@@ -158,6 +158,22 @@ body{
     width:180px;
     z-index:9999;
     }
+
+
+    .top-video{
+    display:flex;
+    justify-content:center;
+    margin:15px 0;
+}
+
+.top-video video{
+    width:120px;
+    height:120px;
+    object-fit:cover;
+    border-radius:50%;
+    border:3px solid gold;
+    box-shadow:0 0 15px gold;
+}
 }
 
 }
