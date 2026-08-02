@@ -94,3 +94,21 @@ setInterval(() => {
     if (c >= colors.length) c = 0;
 
 }, 500);
+
+const bgMusic = document.getElementById("bgmusic");
+const topVideo = document.getElementById("topVideo");
+
+// Video play ayithe background music stop
+topVideo.addEventListener("play", function () {
+    bgMusic.pause();
+});
+
+// Video pause ayithe music malli start
+topVideo.addEventListener("pause", function () {
+    bgMusic.play();
+});
+
+// Video complete ayithe music malli start
+topVideo.addEventListener("ended", function () {
+    bgMusic.play();
+});
