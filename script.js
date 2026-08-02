@@ -12,7 +12,6 @@ To all my amazing friends ❤️
 
 Thank you for filling my life with happiness, laughter, and unforgettable memories.
 
-I am lucky to have friends like you.
 
 Wishing you a wonderful Friendship Day! 🤝💙
 
